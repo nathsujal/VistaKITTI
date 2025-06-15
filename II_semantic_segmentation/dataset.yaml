@@ -1,0 +1,26 @@
+names:
+- void
+- road
+- sidewalk
+- building
+- wall
+- fence
+- pole
+- traffic light
+- traffic sign
+- vegetation
+- terrain
+- sky
+- person
+- rider
+- car
+- truck
+- bus
+- train
+- motorcycle
+- bicycle
+nc: 20
+path: /home/sujalnath/dev/projects/depth-analysis/YOLO_TRAIN_DATASET
+test: test/images
+train: train/images
+val: val/images
